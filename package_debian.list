@@ -1,1 +1,1 @@
-deb https://endagor-84.github.io/deb-packages ./
+deb [allow-insecure=yes] https://endagor-84.github.io/deb-packages ./
