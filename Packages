@@ -3,9 +3,9 @@ Version: 0.044
 Architecture: all
 Maintainer: MeTest
 Filename: ./peervpn-v_0.044.deb
-Size: 37700
-MD5sum: 8dff22e34312a75b213748ff1b411c30
-SHA1: 52654a114563b7105fd8c038b4cd8038e2068f77
-SHA256: ae1bd2eef4fa10b7517719223bbda336d42e4588ad44d5e807035da105f20120
+Size: 37712
+MD5sum: 005810d32f7c5ec69b93158303be6bad
+SHA1: 68c387f8357349a970d728fc83babc3cee48cf57
+SHA256: 5b3d9f50b83e45094dbff38f970402f9af054a9f63534c2434d7f50df4b237ee
 Description: test package
 
